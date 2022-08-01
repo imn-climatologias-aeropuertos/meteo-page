@@ -1,19 +1,25 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import NavBar from "./components/Nav.vue";
+</script>
 
 <template>
-  <router-view />
+  <NavBar id="navbar" />
+  <router-view class="absolute" id="view" />
 </template>
 
 <style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
+#menu {
+  width: 20%;
+  left: 0;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+
+#view {
+  width: 80%;
+  right: 0;
 }
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+
+#menu,
+#view {
+  top: 3.5rem;
 }
 </style>
