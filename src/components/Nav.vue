@@ -14,6 +14,6 @@
 <style scoped lang="postcss">
 button {
   @apply border border-white rounded-md;
-  @apply text-white px-2 mx-1;
+  @apply text-white px-2 mx-2;
 }
 </style>
