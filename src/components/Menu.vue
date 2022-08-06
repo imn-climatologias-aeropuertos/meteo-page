@@ -15,8 +15,10 @@ import links from "../static/menu_links.json";
 
 <style scoped lang="postcss">
 li {
-  @apply border border-gray-800 rounded-md;
-  @apply px-1 m-3 text-gray-800;
+  @apply border rounded-md;
+  @apply dark:border-white dark:text-white;
+  @apply dark:hover:bg-white dark:hover:text-gray-800;
+  @apply px-1 m-3 text-lg border-gray-800 text-gray-800;
   @apply hover:bg-gray-800 hover:text-white;
 }
 </style>
