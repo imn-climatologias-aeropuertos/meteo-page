@@ -8,36 +8,64 @@ const { isMenuOpen } = useUI();
 
 <template>
   <NavBar id="navbar" />
-  <Menu class="absolute" :class="{ hidden: !isMenuOpen }" id="menu" />
-  <router-view
-    class="absolute"
-    :class="{ 'all-width': !isMenuOpen }"
-    id="view"
-  />
+  <Transition name="slide-fade">
+    <Menu v-if="isMenuOpen" id="menu" />
+  </Transition>
+  <Transition name="fade">
+    <router-view
+      :class="{
+        width100: !isMenuOpen,
+        'ease-out': !isMenuOpen,
+        'ease-in': isMenuOpen,
+      }"
+      id="view"
+    />
+  </Transition>
 </template>
 
-<style scoped>
+<style scoped lang="postcss">
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 1s ease-out;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.slide-fade-enter-active {
+  transition: all 0.3s ease-out;
+}
+
+.slide-fade-leave-active {
+  transition: all 0.5s cubic-bezier(1, 0.5, 0.8, 1);
+}
+
+.slide-fade-enter-from,
+.slide-fade-leave-to {
+  transform: translateX(-20px);
+  opacity: 0;
+}
+
 #menu {
-  width: 20%;
-  left: 0;
+  @apply absolute z-10 w-3/5 left-0 sm:w-1/5;
 }
 
 #view {
-  width: 80%;
-  right: 0;
+  @apply absolute w-full px-2 sm:w-4/5 sm:right-0;
 }
 
 #menu,
 #view {
-  top: 3.5rem;
+  @apply top-14;
 }
 
 .hidden {
-  left: -100;
+  @apply -left-80;
 }
 
-.all-width {
-  width: 100%;
-  left: 0;
+.width100 {
+  @apply left-0 w-full;
 }
 </style>
