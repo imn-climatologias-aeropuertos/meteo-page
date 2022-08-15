@@ -10,7 +10,7 @@ const { toggleMenu } = useUI();
 
 <template>
   <nav
-    class="flex items-center justify-between flex-wrap bg-gray-800 py-3 shadow-sm dark:shadow-slate-400"
+    class="flex items-center justify-between flex-wrap bg-blue py-3 shadow-sm dark:shadow-gray"
   >
     <div class="flex items-center flex-shrink-0 text-white">
       <button class="menu-btn" @click="toggleMenu()">
