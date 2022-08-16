@@ -7,18 +7,6 @@
   },
   {
     "to": "/",
-    "icon": "home",
-    "text": "Inicio",
-    "name": "home"
-  },
-  {
-    "to": "/",
-    "icon": "eject",
-    "text": "About",
-    "name": "about"
-  },
-  {
-    "to": "/",
     "icon": "eject",
     "text": "About",
     "name": "about"

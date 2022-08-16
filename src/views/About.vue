@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import Title from "../components/Title.vue";
+</script>
+
 <template>
-  <h1 class="text-teal-900">About</h1>
+  <Title>About</Title>
 </template>
