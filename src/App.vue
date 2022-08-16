@@ -13,11 +13,11 @@ const { isMenuOpen } = useUI();
   </Transition>
   <Transition name="fade">
     <router-view
-      :class="{
-        width100: !isMenuOpen,
-        'ease-out': !isMenuOpen,
-        'ease-in': isMenuOpen,
-      }"
+      :class="
+        isMenuOpen
+          ? 'w-full sm:w-4/5 sm:right-0 ease-in'
+          : 'w-full sm:w-full sm:left-0 ease-out'
+      "
       id="view"
     />
   </Transition>
@@ -53,7 +53,7 @@ const { isMenuOpen } = useUI();
 }
 
 #view {
-  @apply absolute w-full px-2 sm:w-4/5 sm:right-0;
+  @apply absolute px-2;
 }
 
 #menu,
@@ -63,9 +63,5 @@ const { isMenuOpen } = useUI();
 
 .hidden {
   @apply -left-80;
-}
-
-.width100 {
-  @apply left-0 w-full;
 }
 </style>

@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import Title from "../components/Title.vue";
+</script>
+
 <template>
-  <h1 class="font-bold underline">Hello MeteoPage!</h1>
+  <Title>Departamento de Meteorología Sinóptica y Aeronáutica</Title>
 </template>

@@ -9,9 +9,7 @@ const { toggleMenu } = useUI();
 </script>
 
 <template>
-  <nav
-    class="flex items-center justify-between flex-wrap bg-blue py-3 shadow-sm dark:shadow-gray"
-  >
+  <nav>
     <div class="flex items-center flex-shrink-0 text-white">
       <button class="menu-btn" @click="toggleMenu()">
         <font-awesome-icon icon="fa-solid fa-bars" />
@@ -28,6 +26,11 @@ const { toggleMenu } = useUI();
 </template>
 
 <style scoped lang="postcss">
+nav {
+  @apply absolute flex items-center justify-between flex-wrap bg-blue;
+  @apply py-3 w-full;
+  @apply shadow-sm dark:shadow-gray;
+}
 .menu-btn {
   @apply border border-white rounded-md;
   @apply text-white px-2 mx-2;
