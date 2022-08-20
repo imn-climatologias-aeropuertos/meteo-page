@@ -12,7 +12,7 @@ const props = defineProps({
     <a
       target="_blank"
       :href="props.link"
-      :class="props.isLight ? 'light' : 'dark'"
+      :class="props.isLight ? 'light' : 'obscure'"
     >
       <slot></slot>
     </a>
@@ -34,10 +34,12 @@ a {
 .light {
   @apply text-blue bg-white border-blue;
   @apply hover:text-white hover:bg-blue;
+  @apply dark:border-white;
 }
 
-.dark {
+.obscure {
   @apply text-white bg-blue border-blue;
   @apply hover:text-blue hover:bg-white;
+  @apply dark:border-white;
 }
 </style>
