@@ -22,12 +22,12 @@ const props = defineProps({
 <style lang="postcss" scoped>
 div {
   @apply inline-block justify-center;
-  @apply m-2;
+  @apply m-3;
 }
 
 a {
   @apply border-2 text-lg rounded-md py-2 px-4;
-  @apply block hover:scale-105 hover:text-xl hover:transition;
+  @apply block hover:scale-105 hover:transition;
   @apply hover:duration-150 hover:ease-in-out;
 }
 
