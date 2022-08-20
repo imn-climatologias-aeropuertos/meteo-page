@@ -26,7 +26,7 @@ div {
 }
 
 a {
-  @apply border-2 text-lg rounded-md py-2 px-4;
+  @apply border-2 text-lg font-normal rounded-md py-2 px-4;
   @apply block hover:scale-105 hover:transition;
   @apply hover:duration-150 hover:ease-in-out;
 }

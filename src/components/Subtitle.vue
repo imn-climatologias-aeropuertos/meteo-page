@@ -6,7 +6,7 @@
 
 <style lang="postcss" scoped>
 h2 {
-  @apply p-3 text-2xl text-blue text-center;
+  @apply p-3 text-2xl font-semibold text-blue text-center;
   @apply dark:text-white;
 }
 </style>

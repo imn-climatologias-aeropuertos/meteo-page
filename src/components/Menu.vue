@@ -22,7 +22,7 @@ ul {
 
 .link {
   @apply border rounded-md;
-  @apply px-1 m-3 text-lg border-blue text-blue;
+  @apply px-1 m-3 text-lg border-blue text-blue font-medium;
   @apply hover:bg-lightblue;
   @apply dark:border-white dark:text-white;
   @apply dark:hover:text-white;
