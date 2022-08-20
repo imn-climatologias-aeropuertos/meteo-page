@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Climate Prediction Center - International Desks",
+        "img": "imagenes/cpc-id",
+        "link": "https://www.cpc.ncep.noaa.gov/products/international/index.shtml",
+        "big": true
+    },
+    {
+        "title": "Modelo Europeo",
+        "img": "imagenes/europeo",
+        "link": "https://www.ecmwf.int/en/forecasts/charts/catalogue/?facets=Range,Medium%20(15%20days)%3BType,Forecasts",
+        "big": true
+    },
+    {
+        "title": "Long Range Forecast Multi-Model Ensemble",
+        "img": "imagenes/wmolc",
+        "link": "https://www.wmolc.org/",
+        "big": true
+    }
+]

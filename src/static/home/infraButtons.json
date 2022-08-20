@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Radar",
+    "link": "http://190.185.117.144:8080/rainweb/site/#map=7/10.871/-82.859"
+  },
+  {
+    "text": "Probabilidad de Lluvia",
+    "link": "http://wrf5.imn.ac.cr/lluvia/probabilidad.html"
+  },
+  {
+    "text": "Datos Diarios (anomalías)",
+    "link": "http://intranet.imn.ac.cr/estaciones/graficos/mapas/"
+  },
+  {
+    "text": "Lluvia Actual",
+    "link": "http://intranet.imn.ac.cr/estaciones/esta.html"
+  },
+  {
+    "text": "Rayos Registrados",
+    "link": "http://intranet.imn.ac.cr/estaciones/graficos/rayos/"
+  }
+]

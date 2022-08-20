@@ -1,0 +1,44 @@
+[
+  {
+    "title": "CAFFG",
+    "img": "imagenes/caffg",
+    "link": "https://cds.imn.ac.cr/CAFFG/index.php",
+    "big": false
+  },
+  {
+    "title": "Datos 5 minutos",
+    "img": "imagenes/cinco-minutos",
+    "link": "http://intranet.imn.ac.cr/estaciones/graficos/datos5minutos/mapaIntensidadLluvia.png",
+    "big": false
+  },
+  {
+    "title": "Gráficos de las estaciones",
+    "img": "imagenes/graficos-estaciones",
+    "link": "http://intranet.imn.ac.cr/estaciones/graficos/graficos7a7/",
+    "big": false
+  },
+  {
+    "title": "Radiosondeos WRF",
+    "img": "imagenes/radiosondeosWRF",
+    "link": "http://intranet.imn.ac.cr/estaciones/graficos/radioSondeosWRF/",
+    "big": false
+  },
+  {
+    "title": "Cyclone phase evolution",
+    "img": "imagenes/cyclone-evo",
+    "link": "http://moe.met.fsu.edu/cyclonephase/",
+    "big": false
+  },
+  {
+    "title": "Anomalías de luvia diaria",
+    "img": "imagenes/anomalias-lluvia",
+    "link": "http://intranet.imn.ac.cr/estaciones/graficos/anomalias_lluvia/",
+    "big": false
+  },
+  {
+    "title": "Particulado en tiempo real",
+    "img": "imagenes/particulado-tiempo-real",
+    "link": "https://aqicn.org/city/costa-rica/san-jose/us-embassy",
+    "big": false
+  }
+]

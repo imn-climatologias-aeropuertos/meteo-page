@@ -1,0 +1,56 @@
+[
+    {
+        "title": "WRF-AR (1 KM)",
+        "img": "imagenes/wrf-ar",
+        "link": "http://wrfar.imn.ac.cr/",
+        "big": false
+    },
+    {
+        "title": "WRF 1.5 (1 KM)",
+        "img": "imagenes/wrf-15",
+        "link": "http://wrf1-5.imn.ac.cr/",
+        "big": false
+    },
+    {
+        "title": "WRF 15 (9 KM)",
+        "img": "imagenes/wrf15",
+        "link": "http://wrf15.imn.ac.cr/",
+        "big": false
+    },
+    {
+        "title": "WRF 5 (1.89 KM)",
+        "img": "imagenes/wrf5",
+        "link": "http://wrf5.imn.ac.cr/",
+        "big": false
+    },
+    {
+        "title": "WRF Sarapiquí (1.89 KM)",
+        "img": "imagenes/sarapiqui",
+        "link": "http://sarapiqui.imn.ac.cr/",
+        "big": false
+    },
+    {
+        "title": "WRF 1 (10 KM)",
+        "img": "imagenes/wrf1",
+        "link": "http://wrf1.imn.ac.cr",
+        "big": false
+    },
+    {
+        "title": "WRF 1.5 Backup",
+        "img": "imagenes/wrf-15-backup",
+        "link": "http://wrf1-5.imn.ac.cr/modelo/backup/WRF15/",
+        "big": false
+    },
+    {
+        "title": "CAFFG",
+        "img": "imagenes/caffg",
+        "link": "https://cds.imn.ac.cr/CAFFG/index.php",
+        "big": false
+    },
+    {
+        "title": "WRF 8 (8 KM)",
+        "img": "imagenes/wrf8",
+        "link": "http://wrf8.imn.ac.cr/",
+        "big": false
+    }
+]

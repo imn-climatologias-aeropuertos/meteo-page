@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Estación Río Zapote",
+        "link": "https://www.imn.ac.cr/especial/estacionCanalete.html"
+    },
+    {
+        "title": "Datos observados (Davis, UCR, IMN)",
+        "link": "http://intranet.imn.ac.cr/datos.html"
+    },
+    {
+        "title": "Isoyetas",
+        "link": "https://www.imn.ac.cr/isoyetas"
+    },
+    {
+        "title": "Davis",
+        "link": "https://www.weatherlink.com/map.php?station=jacobeach"
+    },
+    {
+        "title": "Datos UCR",
+        "link": "http://meteoro.ucr.ac.cr/"
+    },
+    {
+        "title": "La Selva",
+        "link": "https://archive.tropicalstudies.org/meteoro/datosimn/69697/"
+    },
+    {
+        "title": "Cotobrús",
+        "link": "https://archive.tropicalstudies.org/meteoro/datosimn/98103/"
+    },
+    {
+        "title": "Palo Verde",
+        "link": "https://archive.tropicalstudies.org/meteoro/datosimn/76057/"
+    },
+    {
+        "title": "Wundergound",
+        "link": "https://www.wunderground.com/?lat=10.000000&lon=-84.000000&zoom=10&wxsn=1"
+    },
+    {
+        "title": "Davis-estaciones",
+        "link": "https://www.weatherlink.com/map.php?station=jacobeach"
+    },
+    {
+        "title": "ICAFE-estaciones",
+        "link": "http://www.icafe.cr/sector-cafetalero/clima/"
+    }
+]

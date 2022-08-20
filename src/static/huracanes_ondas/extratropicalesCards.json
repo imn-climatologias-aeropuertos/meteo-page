@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Fomación de ciclones",
+        "img": "imagenes/cyclone-prob",
+        "link": "https://www.ssd.noaa.gov/PS/TROP/TCFP/atlantic.html",
+        "big": false
+    },
+    {
+        "title": "Tormentas Activas",
+        "img": "imagenes/hwrf",
+        "link": "https://www.emc.ncep.noaa.gov/gc_wmb/vxt/HWRF/index.php",
+        "big": false
+    },
+    {
+        "title": "Trayectoria de Ciclones",
+        "img": "imagenes/monterrey",
+        "link": "https://www.nrlmry.navy.mil/tc-bin/tc_home2.cgi?ACTIVES=20-IO-01B.AMPHAN,20-ATL-01L.ONE,20-WPAC-01W.VONGFONG&SIZE=full&PHOT=yes&NAV=tc&ATCF_BASIN=al&ATCF_YR=2020&ATCF_FILE=/SATPRODUCTS/kauai_data/www/atcf_web/public_html/image_archives/2020/al012020.20051612.gif&CURRENT_ATCF_FILE=/SATPRODUCTS/kauai_data/www/atcf_web/public_html/image_archives/2020/al012020.20051612.gif&CURRENT=20200516.2330.goes17.x.ir1km_bw.01LONE.30kts-1008mb-280N-788W.100pc.jpg&CURRENT_ATCF=al012020.20051612.gif&ATCF_NAME=al012020&ATCF_DIR=/SATPRODUCTS/kauai_data/www/atcf_web/public_html/image_archives/2020&AGE=Latest&MO=MAY&BASIN=ATL&STYLE=tables&YEAR=2020&YR=20&STORM_NAME=01L.ONE&ARCHIVE=active&AREA=pacific/southern_hemisphere&DIR=/SATPRODUCTS/TC/tc20/ATL/01L.ONE/ir/geo/1km_bw&TYPE=ssmi&PROD=gif",
+        "big": false
+    },
+    {
+        "title": "Cyclone phase evolution",
+        "img": "imagenes/cyclone-evo",
+        "link": "http://moe.met.fsu.edu/cyclonephase/",
+        "big": false
+    },
+    {
+        "title": "Trayectoria de Ciclones",
+        "img": "imagenes/ibtracs",
+        "link": "http://www.atms.unca.edu/ibtracs/ibtracs_current/index.php",
+        "big": false
+    },
+    {
+        "title": "Histórico de Ciclones NOAA",
+        "img": "imagenes/noaa-historico",
+        "link": "https://coast.noaa.gov/hurricanes/#map=4/32/-80",
+        "big": false
+    },
+    {
+        "title": "tropicalatlantic.com",
+        "img": "imagenes/tropical-atlantic",
+        "link": "http://tropicalatlantic.com/",
+        "big": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "CONABIO",
+        "img": "imagenes/conabio",
+        "link": "http://incendios.conabio.gob.mx/",
+        "big": false
+    },
+    {
+        "title": "CONIFOR",
+        "img": "imagenes/conifor",
+        "link": "http://gestion.incendiosforestales.cr/",
+        "big": false
+    },
+    {
+        "title": "NASA",
+        "img": "imagenes/incendios-NASA",
+        "link": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data",
+        "big": false
+    },
+    {
+        "title": "Global Forest Watch Fires",
+        "img": "imagenes/global-forest-watch",
+        "link": "https://fires.globalforestwatch.org/map/#activeLayers=viirsFires%2CactiveFires&activeBasemap=topo&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=null&x=-82.628860&y=10.763970&z=6",
+        "big": false
+    }
+]

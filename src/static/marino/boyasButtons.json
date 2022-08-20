@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Boya Guanacaste",
+        "link": "http://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=10.2&longitude=-86.3&zone=-6&units=e"
+    },
+    {
+        "title": "Boya Limón",
+        "link": "http://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=wna&latitude=10.5&longitude=-82.0&zone=-6&units=e"
+    },
+    {
+        "title": "Boya Pacífico Sur",
+        "link": "http://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=8.3&longitude=-85.0&zone=-6&units=e"
+    },
+    {
+        "title": "Boya Isla del Coco",
+        "link": "http://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=5.32&longitude=-87.05&zone=-6&units=e"
+    }
+]

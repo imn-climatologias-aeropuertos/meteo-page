@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Valle Central",
+        "img": "imagenes/VC_este",
+        "link": "https://www.imn.ac.cr/especial/gam.html",
+        "big": false
+    },
+    {
+        "title": "Valle Central Montañas",
+        "img": "imagenes/VC_montanas",
+        "link": "https://www.imn.ac.cr/especial/vcmonta.html",
+        "big": false
+    },
+    {
+        "title": "Cartago",
+        "img": "imagenes/cartago",
+        "link": "https://www.imn.ac.cr/especial/cartago.html",
+        "big": false
+    },
+    {
+        "title": "Valle Central Oeste",
+        "img": "imagenes/VC_oeste",
+        "link": "https://www.imn.ac.cr/especial/gam2.html",
+        "big": false
+    },
+    {
+        "title": "Guanacaste",
+        "img": "imagenes/guanacaste",
+        "link": "https://www.imn.ac.cr/especial/guanacaste.html",
+        "big": false
+    },
+    {
+        "title": "Pacífico",
+        "img": "imagenes/pacifico",
+        "link": "https://www.imn.ac.cr/especial/pacifico.html",
+        "big": false
+    },
+    {
+        "title": "Caribe y Zona Norte",
+        "img": "imagenes/caribe-zn",
+        "link": "https://www.imn.ac.cr/especial/caribe-zn.html",
+        "big": false
+    },
+    {
+        "title": "Cambio Climático",
+        "img": "imagenes/cambio_climatico",
+        "link": "https://www.imn.ac.cr/especial/desarrollocc.html",
+        "big": false
+    }
+]

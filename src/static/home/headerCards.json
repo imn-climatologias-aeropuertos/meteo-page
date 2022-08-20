@@ -1,0 +1,14 @@
+[
+    {
+        "title": "GOES 16 L1B CO5, CO3, CO1 2k",
+        "img": "animaciones/tornado.gif",
+        "link": "https://www.imn.ac.cr/imagenes-sat/crtrucol-animada.gif",
+        "big": true
+    },
+    {
+        "title": "GOES 16 L1B CO2, CO3, CO1 2k",
+        "img": "animaciones/hollingshead.gif",
+        "link": "https://www.imn.ac.cr/imagenes-sat/caribe-animada.gif",
+        "big": true
+    }
+]

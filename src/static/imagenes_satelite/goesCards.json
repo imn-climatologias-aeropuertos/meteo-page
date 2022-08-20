@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Tele Space",
+        "img": "imagenes/telespace",
+        "link": "http://satelite.imn.ac.cr/",
+        "big": false
+    },
+    {
+        "title": "Ramsdis Visible",
+        "img": "imagenes/visible",
+        "link": "http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=rmtc/rmtccosvis1&width=640&height=480",
+        "big": false
+    },
+    {
+        "title": "Winds & Analyses",
+        "img": "imagenes/wg8wvir",
+        "link": "http://tropic.ssec.wisc.edu/real-time/windmain.php?&basin=atlantic&sat=wg8&prod=wvir&zoom=&time",
+        "big": false
+    },
+    {
+        "title": "Rayos CIGEFI",
+        "img": "imagenes/rayos-cigefi",
+        "link": "http://www.cigefi.ucr.ac.cr/iddcc-ucr/",
+        "big": false
+    },
+    {
+        "title": "GOES 16 L2",
+        "img": "imagenes/goesL2",
+        "link": "https://www.imn.ac.cr/imagenes-satelitalesl2",
+        "big": false
+    }
+]

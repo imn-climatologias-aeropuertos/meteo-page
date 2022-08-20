@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Cámara Oeste",
+        "link": "http://192.168.0.240"
+    },
+    {
+        "title": "Cámara Este",
+        "link": "http://192.168.0.239"
+    }
+]

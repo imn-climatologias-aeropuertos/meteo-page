@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Reanalysis NCEP/NCAR",
+        "img": "imagenes/ncepncar",
+        "link": "https://psl.noaa.gov/cgi-bin/data/composites/printpage.pl",
+        "big": false
+    },
+    {
+        "title": "Climate Reanalizer",
+        "img": "imagenes/climate-reanalizer",
+        "link": "https://climatereanalyzer.org/",
+        "big": false
+    },
+    {
+        "title": "Reanalysis Nuevo",
+        "img": "imagenes/reanalysis-nuevo",
+        "link": "http://apdrc.soest.hawaii.edu/las/v6/dataset",
+        "big": false
+    },
+    {
+        "title": "Reanalysis Océano",
+        "img": "imagenes/reanalysis-oceano",
+        "link": "https://www.cpc.ncep.noaa.gov/products/GODAS/monthly.shtml",
+        "big": false
+    },
+    {
+        "title": "CPC-ENSO",
+        "img": "imagenes/soil-moisture",
+        "link": "https://www.cpc.ncep.noaa.gov/products/Global_Monsoons/American_Monsoons/soil_olr_monitoring.shtml",
+        "big": false
+    },
+    {
+        "title": "CLIMEX (Reanálisis Holandés)",
+        "img": "imagenes/climex",
+        "link": "http://climexp.knmi.nl/start.cgi?id=someone@somewhere",
+        "big": false
+    },
+    {
+        "title": "ERA-40",
+        "img": "imagenes/era-40",
+        "link": "https://software.ecmwf.int/static/ERA-40_Atlas/docs/index.html",
+        "big": false
+    },
+    {
+        "title": "Resumen mensual (datos)",
+        "img": "imagenes/resumen-mensual",
+        "link": "http://lluvia.imn.ac.cr/boletin/",
+        "big": false
+    },
+    {
+        "title": "Climate Information Toolkit",
+        "img": "imagenes/clinfotoolkit",
+        "link": "http://clik.apcc21.org/",
+        "big": false
+    }
+]

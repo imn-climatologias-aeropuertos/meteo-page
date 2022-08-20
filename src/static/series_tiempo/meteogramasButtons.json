@@ -1,0 +1,18 @@
+[
+    {
+        "title": "MROC",
+        "link": "http://charlie.wxcaster.com/cgi-bin/GFSCrosssectionsWxCaster.cgi?model=GFS&raster=2&vector=0&clouds=0&STATIONID=mroc"
+    },
+    {
+        "title": "MRLB",
+        "link": "http://charlie.wxcaster.com/cgi-bin/GFSCrosssectionsWxCaster.cgi?model=GFS&raster=2&vector=0&clouds=0&STATIONID=mrlb"
+    },
+    {
+        "title": "MRPV",
+        "link": "http://charlie.wxcaster.com/cgi-bin/GFSCrosssectionsWxCaster.cgi?model=GFS&raster=2&vector=0&clouds=0&STATIONID=mrpv"
+    },
+    {
+        "title": "MRLM",
+        "link": "http://charlie.wxcaster.com/cgi-bin/GFSCrosssectionsWxCaster.cgi?model=GFS&raster=2&vector=0&clouds=0&STATIONID=mrlm"
+    }
+]

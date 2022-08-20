@@ -1,0 +1,26 @@
+[
+    {
+        "title": "NOAA HYSPLIT Trajectory Model",
+        "img": "imagenes/dispersion01",
+        "link": "https://www.ready.noaa.gov/hypub-bin/trajsrc.pl?trjtype=4",
+        "big": false
+    },
+    {
+        "title": "Trayectoria Volcanes Activos",
+        "img": "imagenes/ash-trajectory-forecast",
+        "link": "https://www.ready.noaa.gov/READY_traj_volcanoes.php",
+        "big": false
+    },
+    {
+        "title": "Dispersión de Ceniza",
+        "img": "imagenes/dispersion02",
+        "link": "https://www.ready.noaa.gov/READYVolcAsh.php",
+        "big": false
+    },
+    {
+        "title": "Volcanic Ash Advisory Center",
+        "img": "imagenes/volcanic",
+        "link": "https://www.ssd.noaa.gov/VAAC/washington.html",
+        "big": false
+    }
+]

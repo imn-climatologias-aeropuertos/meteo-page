@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Análisis de superficie América",
+        "img": "imagenes/sigwx",
+        "link": "https://www.nhc.noaa.gov/tafb_latest/USA_latest.gif",
+        "big": false
+    },
+    {
+        "title": "Volcanic Ash Advisory Center",
+        "img": "imagenes/volcanic",
+        "link": "https://www.ssd.noaa.gov/VAAC/washington.html",
+        "big": false
+    },
+    {
+        "title": "Mapas Tiempo Significante Niveles Altos",
+        "img": "imagenes/high-level-charts",
+        "link": "https://www.aviationweather.gov/progchart?gis=off",
+        "big": false
+    },
+    {
+        "title": "Mapas Tiempo Significante por Regiones",
+        "img": "imagenes/high-level-charts-regiones",
+        "link": "https://www.aviationweather.gov/flightfolder/products?type=sigwx",
+        "big": false
+    },
+    {
+        "title": "Pronóstico de Turbulencia",
+        "img": "imagenes/turbulencia",
+        "link": "https://www.aviationweather.gov/wafs",
+        "big": false
+    },
+    {
+        "title": "Carpetas Aeronáuticas",
+        "img": "imagenes/carpetas-aeronauticas",
+        "link": "https://www.aviationweather.gov/flightfolder",
+        "big": false
+    },
+    {
+        "title": "Informe Aeronáutico",
+        "img": "imagenes/informe-aero",
+        "link": "https://www.imn.ac.cr/informe-de-meteorologia-aeronautica",
+        "big": false
+    },
+    {
+        "title": "Mapa de METAR's",
+        "img": "imagenes/mapa-metares",
+        "link": "https://www.tropicaltidbits.com/analysis/sfcplots/",
+        "big": false
+    },
+    {
+        "title": "Turbulencia CIMSS GOES16",
+        "img": "imagenes/turbulencia-goes16-CA",
+        "link": "https://cimss.ssec.wisc.edu/turbulence/?satellite=goes-e&hem=NH&region=Central-America&datetime=LATEST",
+        "big": false
+    }
+]
