@@ -57,6 +57,8 @@ const { isMenuOpen } = useUI();
 #view {
   @apply absolute top-14 bottom-0 h-full;
   @apply overflow-y-scroll overflow-x-hidden;
+  @apply scrollbar-thin scrollbar-thumb-darkgray scrollbar-track-gray;
+  @apply dark:scrollbar-thumb-lightblue dark:scrollbar-track-tailwindblue;
 }
 
 #menu {
