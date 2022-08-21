@@ -2,19 +2,27 @@
 import { defineProps } from "vue";
 
 const props = defineProps({
-  img: String,
+  img: {
+    type: String,
+    required: true,
+  },
   link: String,
   isBig: Boolean,
 });
 
-const imgSuffix = ".jpg";
+const addImgSuffix = (imgPath: string): string => {
+  if (imgPath.endsWith(".gif")) {
+    return imgPath;
+  }
+  return imgPath + ".jpg";
+};
 </script>
 
 <template>
   <div class="container" :class="{ big: props.isBig }">
     <figure>
       <a :href="props.link" target="_blank">
-        <img :src="props.img + imgSuffix" alt="" />
+        <img :src="addImgSuffix(props.img)" alt="" />
         <div class="py-2 px-6 text-center">
           <figcaption class="font-medium">
             <div>

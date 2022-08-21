@@ -48,17 +48,23 @@ const { isMenuOpen } = useUI();
   opacity: 0;
 }
 
-#menu {
-  @apply absolute z-10 w-3/5 left-0 sm:w-1/5;
-}
-
-#view {
-  @apply absolute px-2;
+#navbar {
+  position: fixed;
+  @apply z-30;
 }
 
 #menu,
 #view {
-  @apply top-14;
+  @apply absolute top-14 bottom-0 h-full;
+  @apply overflow-y-scroll overflow-x-hidden;
+}
+
+#menu {
+  @apply z-10 w-3/5 left-0 sm:w-1/5;
+}
+
+#view {
+  @apply px-2;
 }
 
 .hidden {

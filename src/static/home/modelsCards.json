@@ -1,0 +1,26 @@
+[
+  {
+    "text": "WRF 1",
+    "img": "../src/static/home/img/wrf1",
+    "link": "http://wrf.imn.ac.cr/",
+    "isBig": false
+  },
+  {
+    "text": "WRF 1.5",
+    "img": "../src/static/home/img/wrf-15",
+    "link": "http://wrf1-5.imn.ac.cr/",
+    "isBig": false
+  },
+  {
+    "text": "Sarapiquí",
+    "img": "../src/static/home/img/sarapiqui",
+    "link": "http://sarapiqui.imn.ac.cr/ensamble6h.html",
+    "isBig": false
+  },
+  {
+    "text": "WRF 5",
+    "img": "../src/static/home/img/wrf5",
+    "link": "http://wrf5.imn.ac.cr/lluvia/lluviaensamble.html",
+    "isBig": false
+  }
+]

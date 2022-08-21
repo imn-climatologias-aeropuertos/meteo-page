@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 body {
-    @apply dark:bg-blue;
+    @apply dark:bg-blue overflow-hidden;
 }
 
 section {
-    @apply py-6;
+    @apply w-full py-4 mb-10;
 }
 
 .main-view {
