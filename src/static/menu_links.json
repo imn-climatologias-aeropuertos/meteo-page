@@ -6,9 +6,9 @@
     "name": "home"
   },
   {
-    "to": "/",
-    "icon": "eject",
-    "text": "About",
-    "name": "about"
+    "to": "/satellite",
+    "icon": "satellite",
+    "text": "Imágenes de Satélite",
+    "name": "satellite"
   }
 ]

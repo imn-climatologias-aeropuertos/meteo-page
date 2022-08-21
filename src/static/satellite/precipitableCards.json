@@ -1,0 +1,20 @@
+[
+  {
+    "text": "CIMSS Tropical Cyclones",
+    "img": "../src/static/satellite/img/cimms",
+    "link": "http://tropic.ssec.wisc.edu/",
+    "isBig": false
+  },
+  {
+    "text": "Sur América",
+    "img": "../src/static/satellite/img/agua_precip_cira_SAm",
+    "link": "http://cat.cira.colostate.edu/sport/layered/advected/LPW_SAm.htm",
+    "isBig": false
+  },
+  {
+    "text": "Norte América",
+    "img": "../src/static/satellite/img/agua_precip_cira_NAm",
+    "link": "http://cat.cira.colostate.edu/sport/layered/advected/LPW_alt.htm",
+    "isBig": false
+  }
+]

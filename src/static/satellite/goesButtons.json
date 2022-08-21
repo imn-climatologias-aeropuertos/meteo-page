@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rayos",
+    "link": "https://ocean.weather.gov/lightning/index.php?basin=Tropics&geog=Far%20North&sat=IR&loop=On"
+  },
+  {
+    "text": "Rayos Vaisala",
+    "link": "https://storm.vaisala.com/thunderstorm/login"
+  },
+  {
+    "text": "Rayos GOES-16",
+    "link": "https://rammb-slider.cira.colostate.edu/?sat=goes-16&z=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=0&opacity%5B0%5D=1&opacity%5B1%5D=1&hidden%5B0%5D=0&hidden%5B1%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=geocolor&p%5B1%5D=cira_glm_l2_group_energy&x=10848&y=10848"
+  },
+  {
+    "text": "Rayos Blitzo",
+    "link": "https://map.blitzortung.org/#3.89/11.26/-74.86"
+  },
+  {
+    "text": "Radar Nicaragua",
+    "link": "http://190.185.117.144:8080/rainweb/site#map=8/9.863/-84.034"
+  },
+  {
+    "text": "Sport-NASA-Imágenes",
+    "link": "https://weather.msfc.nasa.gov/sport/"
+  },
+  {
+    "text": "CIMSS",
+    "link": "http://tropic.ssec.wisc.edu/"
+  }
+]
