@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Vaisala Thunderstorm",
+    "img": "../src/static/home/img/vaisala",
+    "link": "https://storm.vaisala.com/thunderstorm/login",
+    "isBig": false
+  },
+  {
+    "text": "Ramsdis Infrarrojo Loop",
+    "img": "../src/static/home/img/infrarrojo",
+    "link": "http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=rmtc/rmtcnhir48&width=640&height=480",
+    "isBig": false
+  },
+  {
+    "text": "Sondeos Wyoming",
+    "img": "../src/static/home/img/sondeo",
+    "link": "http://weather.uwyo.edu/upperair/sounding.html",
+    "isBig": false
+  },
+  {
+    "text": "Mapa de lluvia nacional",
+    "img": "../src/static/home/img/mapa_lluvia",
+    "link": "http://intra-files.imn.ac.cr/estaciones/esta.html",
+    "isBig": false
+  },
+  {
+    "text": "Valle Central (este)",
+    "img": "../src/static/home/img/VC_este",
+    "link": "https://www.imn.ac.cr/especial/gam2.html",
+    "isBig": false
+  },
+  {
+    "text": "Valle Central (oeste)",
+    "img": "../src/static/home/img/VC_oeste",
+    "link": "https://www.imn.ac.cr/especial/gam.html",
+    "isBig": false
+  },
+  {
+    "text": "ECMWF Model",
+    "img": "../src/static/home/img/nmme-apcpna",
+    "link": "https://www.tropicaltidbits.com/analysis/models/?model=ecmwf&region=watl&pkg=uv850_vort&runtime=2017090512&fh=168&xpos=0&ypos=0",
+    "isBig": false
+  }
+]

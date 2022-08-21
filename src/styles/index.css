@@ -5,3 +5,11 @@
 body {
     @apply dark:bg-blue;
 }
+
+section {
+    @apply py-6;
+}
+
+.main-view {
+    @apply divide-y-2 divide-lightblue;
+}
