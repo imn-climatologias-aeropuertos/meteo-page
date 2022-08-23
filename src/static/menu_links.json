@@ -6,9 +6,15 @@
     "name": "home"
   },
   {
-    "to": "/satellite",
+    "to": "/satellite-imagery",
     "icon": "satellite",
     "text": "Imágenes de Satélite",
-    "name": "satellite"
+    "name": "satellite-imagery"
+  },
+  {
+    "to": "/tracking-data",
+    "icon": "database",
+    "text": "Datos de Seguimiento",
+    "name": "tracking-data"
   }
 ]

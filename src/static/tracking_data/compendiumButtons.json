@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Estación Río Zapote",
+    "link": "https://www.imn.ac.cr/especial/estacionCanalete.html"
+  },
+  {
+    "text": "Isoyetas",
+    "link": "https://www.imn.ac.cr/isoyetas"
+  },
+  {
+    "text": "Weatherlink",
+    "link": "https://www.weatherlink.com"
+  },
+  {
+    "text": "Wundergound",
+    "link": "https://www.wunderground.com/?lat=10.000000&lon=-84.000000&zoom=10&wxsn=1"
+  },
+  {
+    "text": "ICAFE-estaciones",
+    "link": "http://www.icafe.cr/sector-cafetalero/clima/"
+  }
+]

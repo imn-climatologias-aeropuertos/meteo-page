@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Lista de Estaciones (todas)",
+    "link": "http://intra-files.imn.ac.cr/intranet_graficos/datos_estaciones/tabla_lluvia_diaria.txt"
+  },
+  {
+    "text": "Activador ICE",
+    "link": "https://vpngw.ice.go.cr/"
+  },
+  {
+    "text": "Mapa de Estaciones Wundergound",
+    "link": "https://www.wunderground.com/?lat=10.000000&lon=-84.000000&zoom=10&wxsn=1"
+  },
+  {
+    "text": "Datos IMN (horarios, diarios, mensuales)",
+    "link": "http://intra-files.imn.ac.cr/intranet_graficos"
+  }
+]

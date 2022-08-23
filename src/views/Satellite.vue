@@ -5,10 +5,10 @@ import Button from "../components/Button.vue";
 import ButtonList from "../components/ButtonList.vue";
 import CardList from "../components/CardList.vue";
 
-import goesButtons from "../static/satellite/goesButtons.json";
-import goesCards from "../static/satellite/goesCards.json";
-import synopCards from "../static/satellite/synopCards.json";
-import precipitableCards from "../static/satellite/precipitableCards.json";
+import goesButtons from "../static/satellite_imagery/goesButtons.json";
+import goesCards from "../static/satellite_imagery/goesCards.json";
+import synopCards from "../static/satellite_imagery/synopCards.json";
+import precipitableCards from "../static/satellite_imagery/precipitableCards.json";
 </script>
 
 <template>

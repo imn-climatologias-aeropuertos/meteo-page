@@ -8,9 +8,14 @@ const routes: Array<RouteRecordRaw> = [
     component: Home,
   },
   {
-    path: '/satellite',
-    name: 'satellite',
-    component: () => import(/* webpackChunkName: "satellite" */ '../views/Satellite.vue'),
+    path: '/satellite-imagery',
+    name: 'satellite-imagery',
+    component: () => import(/* webpackChunkName: "satellite-imagery" */ '../views/Satellite.vue'),
+  },
+  {
+    path: '/tracking-data',
+    name: 'tracking-data',
+    component: () => import(/* webpackChunkName: "tracking-data" */ '../views/TrackingData.vue'),
   },
 ]
 
