@@ -6,7 +6,9 @@ import links from "../static/menu_links.json";
   <ul>
     <li v-for="link in links" :key="link.icon">
       <router-link :to="{ name: link.name }" class="link block">
-        <font-awesome-icon :icon="`fa-solid fa-${link.icon}`" class="px-2" />
+        <span class="mx-2">
+          <font-awesome-icon :icon="`fa-solid fa-${link.icon}`" />
+        </span>
         {{ link.text }}
       </router-link>
     </li>
@@ -21,11 +23,10 @@ ul {
 }
 
 .link {
-  @apply border rounded-md;
-  @apply px-1 m-3 text-lg border-blue text-blue font-medium;
-  @apply hover:bg-lightblue;
+  @apply border border-blue rounded-md;
+  @apply px-1 m-3 text-sm text-blue font-medium sm:text-lg;
+  @apply hover:bg-lightblue dark:hover:text-white;
   @apply dark:border-white dark:text-white;
-  @apply dark:hover:text-white;
 }
 
 .link.router-link-exact-active {

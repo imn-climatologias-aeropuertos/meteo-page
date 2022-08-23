@@ -66,7 +66,7 @@ const { isMenuOpen } = useUI();
 }
 
 #view {
-  @apply px-2 top-12 sm:top-12;
+  @apply pl-2 pr-4 top-12 sm:top-12;
 }
 
 .hidden {
