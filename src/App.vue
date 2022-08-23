@@ -62,7 +62,7 @@ const { isMenuOpen } = useUI();
 }
 
 #menu {
-  @apply top-14 z-10 w-3/5 left-0 sm:w-1/5;
+  @apply top-14 z-10 w-3/5 h-5/6 left-0 sm:w-1/5 sm:h-full;
 }
 
 #view {
