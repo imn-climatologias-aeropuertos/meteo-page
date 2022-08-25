@@ -1,0 +1,68 @@
+[
+  {
+    "text": "MJO Análisis Semanal",
+    "img": "/assets/oscillations/mjo-analisis-semanal",
+    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjoupdate.pdf",
+    "isBig": false
+  },
+  {
+    "text": "MJO Michael J. Ventrice",
+    "img": "/assets/oscillations/mjo-ventrice",
+    "link": "http://mikeventrice.weebly.com/mjo.html",
+    "isBig": false
+  },
+  {
+    "text": "MJO-VP-Kelvin",
+    "img": "/assets/oscillations/mjo-vp-kelvin",
+    "link": "http://www.atmos.albany.edu/student/ventrice/real_time/maps/waves/westHem/28.gif",
+    "isBig": false
+  },
+  {
+    "text": "MJO Index Forecast",
+    "img": "/assets/oscillations/mjo-index",
+    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/ALL_emean_phase_full.gif",
+    "isBig": false
+  },
+  {
+    "text": "MJO con ENOS",
+    "img": "/assets/oscillations/mjo-enso",
+    "link": "http://www.atmos.albany.edu/student/ventrice/real_time/last.90d.RMMPhase.png",
+    "isBig": false
+  },
+  {
+    "text": "RMM Phase",
+    "img": "/assets/oscillations/rmm1-rmm2",
+    "link": "http://www.bom.gov.au/climate/mjo/graphics/rmm.phase.Last40days.gif",
+    "isBig": false
+  },
+  {
+    "text": "Tropical Monitoring",
+    "img": "/assets/oscillations/tropical-monitoring",
+    "link": "https://ncics.org/portfolio/monitor/mjo/",
+    "isBig": false
+  },
+  {
+    "text": "Onda Kelvin",
+    "img": "/assets/oscillations/onda-kelvin",
+    "link": "http://www.atmos.albany.edu/student/ventrice/real_time/maps/kelvin/total/vp/global_analyses.html",
+    "isBig": false
+  },
+  {
+    "text": "ENOS Modelo Japonés",
+    "img": "/assets/oscillations/japones-ENOS",
+    "link": "http://ds.data.jma.go.jp/tcc/tcc/products/elnino/elmonout.html#fig1",
+    "isBig": false
+  },
+  {
+    "text": "O. Atlántico Norte (NAO)",
+    "img": "/assets/oscillations/nao-sprd2",
+    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.sprd2.gif",
+    "isBig": false
+  },
+  {
+    "text": "Oscilación Ártica (AO)",
+    "img": "/assets/oscillations/ao-sprd2",
+    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/ao.sprd2.gif",
+    "isBig": false
+  }
+]

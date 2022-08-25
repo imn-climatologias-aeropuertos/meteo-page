@@ -1,0 +1,56 @@
+[
+  {
+    "text": "AMO",
+    "img": "/assets/oscillations/amo-data",
+    "link": "https://psl.noaa.gov/data/correlation/amon.us.long.mean.data",
+    "isBig": false
+  },
+  {
+    "text": "ENOS Current Status",
+    "img": "/assets/oscillations/enos-current",
+    "link": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+    "isBig": false
+  },
+  {
+    "text": "PDO",
+    "img": "/assets/oscillations/pdo",
+    "link": "https://www.ncdc.noaa.gov/teleconnections/pdo/",
+    "isBig": false
+  },
+  {
+    "text": "ENOS-Modoki",
+    "img": "/assets/oscillations/enos-modoki",
+    "link": "http://www.jamstec.go.jp/aplinfo/sintexf/index.html",
+    "isBig": false
+  },
+  {
+    "text": "Datos Boyas",
+    "img": "/assets/oscillations/datos-boyas",
+    "link": "https://www.pmel.noaa.gov/tao/drupal/disdel/",
+    "isBig": false
+  },
+  {
+    "text": "SST Caribe",
+    "img": "/assets/oscillations/sst-caribe",
+    "link": "https://www.tropicaltidbits.com/analysis/ocean/carssta.png",
+    "isBig": false
+  },
+  {
+    "text": "IOS Mensual",
+    "img": "/assets/oscillations/ios-mensual",
+    "link": "https://www.ncdc.noaa.gov/teleconnections/enso/indicators/soi/",
+    "isBig": false
+  },
+  {
+    "text": "Índice ONI",
+    "img": "/assets/oscillations/indice-oni",
+    "link": "https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php",
+    "isBig": false
+  },
+  {
+    "text": "IOS NOAA",
+    "img": "/assets/oscillations/ios-noaa",
+    "link": "https://www.cpc.ncep.noaa.gov/products/CDB/Tropics/table1.shtml",
+    "isBig": false
+  }
+]
