@@ -16,5 +16,11 @@
     "icon": "database",
     "text": "Datos de Seguimiento",
     "name": "tracking-data"
+  },
+  {
+    "to": "/hurricanes",
+    "icon": "hurricane",
+    "text": "Huracanes y Ondas",
+    "name": "hurricanes"
   }
 ]

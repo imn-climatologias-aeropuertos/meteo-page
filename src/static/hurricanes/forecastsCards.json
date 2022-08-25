@@ -1,0 +1,20 @@
+[
+  {
+    "text": "24 Horas",
+    "img": "/assets/hurricanes/cnh-fcst-24h",
+    "link": "https://www.nhc.noaa.gov/tafb_latest/atlsfc24_latestBW.gif",
+    "isBig": false
+  },
+  {
+    "text": "48 Horas",
+    "img": "/assets/hurricanes/cnh-fcst-48h",
+    "link": "https://www.nhc.noaa.gov/tafb_latest/atlsfc48_latestBW.gif",
+    "isBig": false
+  },
+  {
+    "text": "72 Horas",
+    "img": "/assets/hurricanes/cnh-fcst-72h",
+    "link": "https://www.nhc.noaa.gov/tafb_latest/atlsfc72_latestBW.gif",
+    "isBig": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Ciclones Atlántico",
+    "img": "/assets/hurricanes/TC_atlantico",
+    "link": "https://www.nhc.noaa.gov/cyclones/?atlc",
+    "isBig": true
+  },
+  {
+    "text": "Ciclones Pacífico",
+    "img": "/assets/hurricanes/TC_pacifico",
+    "link": "https://www.nhc.noaa.gov/cyclones/?epac",
+    "isBig": true
+  }
+]

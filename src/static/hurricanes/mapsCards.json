@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Mapa Superficie América",
+    "img": "/assets/hurricanes/sigwx",
+    "link": "https://www.nhc.noaa.gov/tafb_latest/USA_latest.gif",
+    "isBig": false
+  },
+  {
+    "text": "Mapa Superficie Atl.",
+    "img": "/assets/hurricanes/sigwx-colors",
+    "link": "https://www.nhc.noaa.gov/tafb_latest/WATL_latest.gif",
+    "isBig": false
+  },
+  {
+    "text": "Hovmoller",
+    "img": "/assets/satellite_imagery/hovmoller",
+    "link": "http://bmcnoldy.rsmas.miami.edu/tropics/hovmoller/",
+    "isBig": false
+  }
+]
