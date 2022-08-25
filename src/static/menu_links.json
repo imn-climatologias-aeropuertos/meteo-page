@@ -28,5 +28,11 @@
     "icon": "wave-square",
     "text": "Oscilaciones",
     "name": "oscillations"
+  },
+  {
+    "to": "/models-imn",
+    "icon": "cloud-sun-rain",
+    "text": "Modelos WRF del IMN",
+    "name": "models-imn"
   }
 ]
