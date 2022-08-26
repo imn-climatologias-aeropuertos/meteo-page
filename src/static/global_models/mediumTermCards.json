@@ -6,7 +6,7 @@
     "isBig": false
   },
   {
-    "text": "Meteostar Weather Forecast",
+    "text": "Meteostar Weather Fcst.",
     "img": "/assets/global_models/meteostar",
     "link": "https://www.wxweb.meteostar.com",
     "isBig": false
@@ -48,7 +48,7 @@
     "isBig": false
   },
   {
-    "text": "Nextlab - Vorticidad y Chorros",
+    "text": "Vorticidad y Chorros",
     "img": "/assets/global_models/nextlab-vorticidad",
     "link": "https://weather.cod.edu/forecast/",
     "isBig": false
