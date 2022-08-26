@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Ready",
+    "img": "/assets/time_series/ready",
+    "link": "https://www.ready.noaa.gov/READYcmet.php",
+    "isBig": false
+  },
+  {
+    "text": "Meteograma MROC",
+    "img": "/assets/time_series/meteograma-charlie",
+    "link": "http://charlie.wxcaster.com/cgi-bin/GFSCrosssectionsWxCaster.cgi?model=GFS&raster=2&vector=0&clouds=0&STATIONID=mroc",
+    "isBig": false
+  },
+  {
+    "text": "Meteograma WRF5",
+    "img": "/assets/time_series/meteograma-wrf5",
+    "link": "http://wrf5.imn.ac.cr/meteogramas.html",
+    "isBig": false
+  }
+]

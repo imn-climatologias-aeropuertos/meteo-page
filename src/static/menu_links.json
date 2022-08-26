@@ -46,5 +46,11 @@
     "icon": "temperature-low",
     "text": "Modelos Climáticos",
     "name": "climate-models"
+  },
+  {
+    "to": "/time-series",
+    "icon": "chart-line",
+    "text": "Series de Tiempo",
+    "name": "time-series"
   }
 ]
