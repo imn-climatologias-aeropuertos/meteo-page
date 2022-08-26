@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Polvo del Sahara",
+    "img": "/assets/global_models/weatherbell",
+    "link": "https://maps.weatherbell.com/view/model/nasa-geos-all?d=conus&p=dust",
+    "isBig": false
+  },
+  {
+    "text": "Polvo y Aerosoles",
+    "img": "/assets/global_models/polvo-aerosoles",
+    "link": "https://www.nrlmry.navy.mil/aerosol_web/globaer/ops_01/carib/201706/2017060100_globaer_ops_carib.gif",
+    "isBig": false
+  },
+  {
+    "text": "Conectración de Polvo",
+    "img": "/assets/global_models/polvo-athens",
+    "link": "https://forecast.uoa.gr/en/forecast-maps/dust/north-atlantic",
+    "isBig": false
+  },
+  {
+    "text": "Pronóstico de aerosoles",
+    "img": "/assets/global_models/aerosoles-pronos",
+    "link": "https://acd-ext.gsfc.nasa.gov/People/Colarco/Mission_Support/",
+    "isBig": false
+  }
+]

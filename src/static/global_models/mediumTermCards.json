@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Frentes",
+    "img": "/assets/global_models/wpc-frentes",
+    "link": "https://www.wpc.ncep.noaa.gov/medr/nav_conus_pmsl.php?fday=6&fcolor=ter",
+    "isBig": false
+  },
+  {
+    "text": "Meteostar Weather Forecast",
+    "img": "/assets/global_models/meteostar",
+    "link": "https://www.wxweb.meteostar.com",
+    "isBig": false
+  },
+  {
+    "text": "Atmos Albany",
+    "img": "/assets/global_models/atmos-albany",
+    "link": "http://www.atmos.albany.edu/facstaff/abrammer/",
+    "isBig": false
+  },
+  {
+    "text": "CPC Monsones",
+    "img": "/assets/global_models/monsones",
+    "link": "https://www.cpc.ncep.noaa.gov/products/Global_Monsoons/Global-Monsoon.shtml",
+    "isBig": false
+  },
+  {
+    "text": "Earth Nullschool",
+    "img": "/assets/global_models/earth-nullschool",
+    "link": "https://earth.nullschool.net/#current/particulates/surface/level/overlay=pm10/orthographic=-77.41,12.86,843",
+    "isBig": false
+  },
+  {
+    "text": "Storm",
+    "img": "/assets/global_models/storm-aoml",
+    "link": "https://storm.aoml.noaa.gov/viewer/",
+    "isBig": false
+  },
+  {
+    "text": "Weather.us",
+    "img": "/assets/global_models/weather-us",
+    "link": "https://weather.us/",
+    "isBig": false
+  },
+  {
+    "text": "Modelo Europeo",
+    "img": "/assets/global_models/europeo",
+    "link": "https://www.ecmwf.int/en/forecasts/charts/catalogue/?facets=Range,Medium%20(15%20days)%3BType,Forecasts",
+    "isBig": false
+  },
+  {
+    "text": "Nextlab - Vorticidad y Chorros",
+    "img": "/assets/global_models/nextlab-vorticidad",
+    "link": "https://weather.cod.edu/forecast/",
+    "isBig": false
+  },
+  {
+    "text": "College of DuPage",
+    "img": "/assets/global_models/college-dupage",
+    "link": "https://weather.cod.edu/analysis/",
+    "isBig": false
+  },
+  {
+    "text": "Giro Ciclónico",
+    "img": "/assets/global_models/giro-ciclonico",
+    "link": "http://www.atmos.albany.edu/student/ppapin/gyre.php",
+    "isBig": false
+  }
+]

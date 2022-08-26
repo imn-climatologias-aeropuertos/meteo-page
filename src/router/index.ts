@@ -32,6 +32,11 @@ const routes: Array<RouteRecordRaw> = [
     name: 'models-imn',
     component: () => import(/* webpackChunkName: "models-imn" */ '../views/ModelsIMN.vue'),
   },
+  {
+    path: '/global-models',
+    name: 'global-models',
+    component: () => import(/* webpackChunkName: "global-models" */ '../views/GlobalModels.vue'),
+  },
 ]
 
 const router = createRouter({

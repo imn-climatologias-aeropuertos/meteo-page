@@ -1,0 +1,50 @@
+[
+  {
+    "text": "GFS América Central",
+    "img": "/assets/global_models/gfs-anim",
+    "link": "https://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=GFS&area=WEST-ATL&ps=area#",
+    "isBig": false
+  },
+  {
+    "text": "Tropical Tidbits GEFS",
+    "img": "/assets/global_models/tropical-tidbits-gefs",
+    "link": "https://www.tropicaltidbits.com/analysis/models/?model=gfs-ens&region=watl&pkg=mslp_pwata&runtime=2015101312&fh=48&xpos=0&ypos=158",
+    "isBig": false
+  },
+  {
+    "text": "TC Genesis Potential",
+    "img": "/assets/global_models/tropical-cyclones",
+    "link": "http://moe.met.fsu.edu/tcgengifs/",
+    "isBig": false
+  },
+  {
+    "text": "WPC Model Analyses",
+    "img": "/assets/global_models/gfs-total-precip",
+    "link": "https://www.wpc.ncep.noaa.gov/mike/crb_gfs00.shtml",
+    "isBig": false
+  },
+  {
+    "text": "Windy.com",
+    "img": "/assets/global_models/windy",
+    "link": "https://www.windy.com/?9.534,-80.068,4",
+    "isBig": false
+  },
+  {
+    "text": "GFS Alicia M. Bentley",
+    "img": "/assets/global_models/gfs-alicia",
+    "link": "http://www.atmos.albany.edu/student/abentley/realtime.html",
+    "isBig": false
+  },
+  {
+    "text": "WPC Forecasting",
+    "img": "/assets/global_models/wpc-forecasting-algorithms",
+    "link": "https://www.wpc.ncep.noaa.gov/international/wng/",
+    "isBig": false
+  },
+  {
+    "text": "Ventusky",
+    "img": "/assets/global_models/ventusky",
+    "link": "https://www.ventusky.com/?p=9.9;-84.1;5&l=wind-10m&t=20191101/0000&m=icon",
+    "isBig": false
+  }
+]

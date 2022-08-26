@@ -34,5 +34,11 @@
     "icon": "cloud-sun-rain",
     "text": "Modelos WRF del IMN",
     "name": "models-imn"
+  },
+  {
+    "to": "/global-models",
+    "icon": "globe-americas",
+    "text": "Modelos Globales",
+    "name": "global-models"
   }
 ]
