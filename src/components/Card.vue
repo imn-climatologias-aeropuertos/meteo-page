@@ -44,9 +44,9 @@ const addImgSuffix = (imgPath: string): string => {
 }
 
 figure {
-  @apply text-white w-full bg-blue rounded-xl py-3;
+  @apply text-white w-full bg-blue dark:bg-secondblue rounded-xl py-3;
   @apply shadow-md shadow-gray;
-  @apply hover:bg-lightblue hover:text-blue;
+  @apply hover:bg-lightblue hover:text-secondblue;
 }
 
 img {

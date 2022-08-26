@@ -26,8 +26,9 @@ ul {
   @apply border border-blue rounded-md;
   @apply p-1 m-3 text-sm text-blue font-medium;
   @apply sm:text-base 2xl:text-xl;
-  @apply hover:bg-lightblue dark:hover:text-white;
+  @apply dark:bg-secondblue dark:hover:text-white;
   @apply dark:border-white dark:text-white;
+  @apply hover:bg-lightblue;
 }
 
 .link.router-link-exact-active {

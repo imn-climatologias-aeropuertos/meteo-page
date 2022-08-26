@@ -34,12 +34,14 @@ a {
 .light {
   @apply text-blue bg-white border-blue;
   @apply hover:text-white hover:bg-blue;
-  @apply dark:border-white;
+  @apply dark:border-white dark:hover:bg-secondblue dark:text-secondblue;
+  @apply dark:hover:bg-secondblue dark:hover:text-white;
 }
 
 .obscure {
-  @apply text-white bg-blue border-blue;
+  @apply text-white bg-blue  border-blue;
   @apply hover:text-blue hover:bg-white;
-  @apply dark:border-white;
+  @apply dark:border-white dark:bg-secondblue dark:text-white;
+  @apply dark:hover:bg-white dark:hover:text-secondblue;
 }
 </style>
