@@ -1,0 +1,26 @@
+[
+  {
+    "text": "CFS v2 (varios)",
+    "img": "/assets/climate_models/cfs-model",
+    "link": "https://www.cpc.ncep.noaa.gov/products/CFSv2/CFSv2seasonal.shtml",
+    "isBig": false
+  },
+  {
+    "text": "SST-Global",
+    "img": "/assets/climate_models/sst-global",
+    "link": "https://www.tropicaltidbits.com/analysis/ocean/cdas-sflux_ssta_global_1.png",
+    "isBig": false
+  },
+  {
+    "text": "NMME",
+    "img": "/assets/climate_models/nmme-model",
+    "link": "https://www.tropicaltidbits.com/analysis/models/?model=nmme&region=us&pkg=T2ma&runtime=2017080800&fh=1&xpos=0&ypos=4",
+    "isBig": false
+  },
+  {
+    "text": "CPTEC Brasil",
+    "img": "/assets/climate_models/cptec-brasil",
+    "link": "http://clima1.cptec.inpe.br/",
+    "isBig": false
+  }
+]

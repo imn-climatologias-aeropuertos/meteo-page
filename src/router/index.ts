@@ -37,6 +37,11 @@ const routes: Array<RouteRecordRaw> = [
     name: 'global-models',
     component: () => import(/* webpackChunkName: "global-models" */ '../views/GlobalModels.vue'),
   },
+  {
+    path: '/climate-models',
+    name: 'climate-models',
+    component: () => import(/* webpackChunkName: "climate-models" */ '../views/ClimateModels.vue'),
+  },
 ]
 
 const router = createRouter({

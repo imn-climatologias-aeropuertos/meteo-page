@@ -40,5 +40,11 @@
     "icon": "globe-americas",
     "text": "Modelos Globales",
     "name": "global-models"
+  },
+  {
+    "to": "/climate-models",
+    "icon": "temperature-low",
+    "text": "Modelos Climáticos",
+    "name": "climate-models"
   }
 ]
