@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Reanalysis NCEP/NCAR",
+    "img": "/assets/reanalisys/ncepncar",
+    "link": "https://psl.noaa.gov/cgi-bin/data/composites/printpage.pl",
+    "isBig": false
+  },
+  {
+    "text": "Climate Reanalizer",
+    "img": "/assets/reanalisys/climate-reanalizer",
+    "link": "https://climatereanalyzer.org/",
+    "isBig": false
+  },
+  {
+    "text": "Reanalysis Nuevo",
+    "img": "/assets/reanalisys/reanalysis-nuevo",
+    "link": "http://apdrc.soest.hawaii.edu/las/v6/dataset",
+    "isBig": false
+  },
+  {
+    "text": "Reanalysis Océano",
+    "img": "/assets/reanalisys/reanalysis-oceano",
+    "link": "https://www.cpc.ncep.noaa.gov/products/GODAS/monthly.shtml",
+    "isBig": false
+  },
+  {
+    "text": "CPC-ENSO",
+    "img": "/assets/reanalisys/soil-moisture",
+    "link": "https://www.cpc.ncep.noaa.gov/products/Global_Monsoons/American_Monsoons/soil_olr_monitoring.shtml",
+    "isBig": false
+  },
+  {
+    "text": "Reanálisis Holandés",
+    "img": "/assets/reanalisys/climex",
+    "link": "http://climexp.knmi.nl/start.cgi?id=someone@somewhere",
+    "isBig": false
+  },
+  {
+    "text": "Resumen mensual",
+    "img": "/assets/reanalisys/resumen-mensual",
+    "link": "http://lluvia.imn.ac.cr/boletin/",
+    "isBig": false
+  },
+  {
+    "text": "CLIK",
+    "img": "/assets/reanalisys/clinfotoolkit",
+    "link": "http://clik.apcc21.org/",
+    "isBig": false
+  }
+]

@@ -52,5 +52,11 @@
     "icon": "chart-line",
     "text": "Series de Tiempo",
     "name": "time-series"
+  },
+  {
+    "to": "/reanalisys",
+    "icon": "chart-area",
+    "text": "Reanalisys y Resumen",
+    "name": "reanalisys"
   }
 ]

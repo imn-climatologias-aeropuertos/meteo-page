@@ -47,6 +47,11 @@ const routes: Array<RouteRecordRaw> = [
     name: 'time-series',
     component: () => import(/* webpackChunkName: "time-series" */ '../views/TimeSeries.vue'),
   },
+  {
+    path: '/reanalisys',
+    name: 'reanalisys',
+    component: () => import(/* webpackChunkName: "reanalisys" */ '../views/Reanalisys.vue'),
+  },
 ]
 
 const router = createRouter({
