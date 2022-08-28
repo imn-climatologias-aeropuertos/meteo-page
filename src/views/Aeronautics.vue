@@ -81,7 +81,7 @@ generateSigWXButtonsLinks();
       <p>
         Nota: Si experimenta algún error al acceder a los mapas de tiempo
         significante presione el botón "Actualizar Enlaces", esto actualizará
-        los enlaces a cada mapa, ya que cada día cambian cada 6 horas.
+        los enlaces a cada mapa, ya que cambian cada 6 horas.
       </p>
       <ButtonList :buttons="sigwxButtons" />
     </section>
