@@ -94,5 +94,11 @@
     "icon": "clipboard",
     "text": "Evaluación",
     "name": "evaluation"
+  },
+  {
+    "to": "/contact",
+    "icon": "envelope",
+    "text": "Contacto",
+    "name": "contact"
   }
 ]
