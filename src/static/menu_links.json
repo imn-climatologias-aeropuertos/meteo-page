@@ -64,5 +64,11 @@
     "icon": "plane-departure",
     "text": "Aeronáutica",
     "name": "aeronautics"
+  },
+  {
+    "to": "/marine",
+    "icon": "water",
+    "text": "Marino",
+    "name": "marine"
   }
 ]

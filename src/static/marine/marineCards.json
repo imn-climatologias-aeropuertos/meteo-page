@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Windy",
+    "img": "/assets/marine/windy-marino",
+    "link": "https://www.windy.com/es/-Olas-waves?waves,13.368,-82.529,5",
+    "isBig": false
+  },
+  {
+    "text": "Wave Watch III",
+    "img": "/assets/marine/wave-watch-III",
+    "link": "https://polar.ncep.noaa.gov/waves/",
+    "isBig": false
+  },
+  {
+    "text": "MIO-CIMAR",
+    "img": "/assets/marine/mio-cimar",
+    "link": "http://www.miocimar.ucr.ac.cr/",
+    "isBig": false
+  },
+  {
+    "text": "Meteorología Marina - Brasil",
+    "img": "/assets/marine/wave-dir",
+    "link": "http://ondas.cptec.inpe.br/",
+    "isBig": false
+  },
+  {
+    "text": "Surfline Costa Rica",
+    "img": "/assets/marine/surfline-costa-rica",
+    "link": "https://www.surfline.com/surf-reports-forecasts-cams/costa-rica/3624060",
+    "isBig": false
+  },
+  {
+    "text": "Surf Forecast",
+    "img": "/assets/marine/surf-forecast",
+    "link": "https://es.surf-forecast.com/weather_maps",
+    "isBig": false
+  },
+  {
+    "text": "Tides Forecast",
+    "img": "/assets/marine/tides-forecast",
+    "link": "https://www.tide-forecast.com/",
+    "isBig": false
+  }
+]

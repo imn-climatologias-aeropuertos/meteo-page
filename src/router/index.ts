@@ -57,6 +57,11 @@ const routes: Array<RouteRecordRaw> = [
     name: 'aeronautics',
     component: () => import(/* webpackChunkName: "aeronautics" */ '../views/Aeronautics.vue'),
   },
+  {
+    path: '/marine',
+    name: 'marine',
+    component: () => import(/* webpackChunkName: "marine" */ '../views/Marine.vue'),
+  },
 ]
 
 const router = createRouter({
