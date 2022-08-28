@@ -19,7 +19,7 @@ function generateBufkitLinks(
 
   for (let stn of stations) {
     links.push({
-      text: stn.toLowerCase(),
+      text: stn.toUpperCase(),
       link: `http://www.meteo.psu.edu/bufkit/data/NAM/${hour}/nam_${stn}.buf`,
     });
   }
