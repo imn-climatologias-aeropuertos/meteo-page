@@ -82,5 +82,11 @@
     "icon": "volcano",
     "text": "Dispersión de Ceniza",
     "name": "volcanic-ash"
+  },
+  {
+    "to": "/several-data",
+    "icon": "recycle",
+    "text": "Varios",
+    "name": "several-data"
   }
 ]
