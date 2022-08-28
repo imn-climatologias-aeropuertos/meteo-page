@@ -62,11 +62,11 @@ const { isMenuOpen } = useUI();
 }
 
 #menu {
-  @apply pb-2 z-10 w-3/5 h-5/6 left-0 sm:w-1/5 sm:h-full;
+  @apply z-10 w-3/5 h-5/6 left-0 sm:w-1/5 sm:h-auto;
 }
 
 #view {
-  @apply pl-2 pr-4 h-full;
+  @apply pl-2 pr-4 h-auto;
 }
 
 .hidden {
