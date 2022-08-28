@@ -1,9 +1,18 @@
 <script setup lang="ts">
+import { useWindowSize } from "@vueuse/core";
+
 import NavBar from "./components/Nav.vue";
 import Menu from "./components/Menu.vue";
 import { useUI } from "./composables/useUI";
 
-const { isMenuOpen } = useUI();
+const { isMenuOpen, toggleMenu } = useUI();
+const { width } = useWindowSize();
+
+function toggleMenuIfMobile() {
+  if (width.value < 640 && isMenuOpen.value) {
+    toggleMenu();
+  }
+}
 </script>
 
 <template>
@@ -19,6 +28,7 @@ const { isMenuOpen } = useUI();
           : 'w-full sm:w-full sm:left-0 ease-out'
       "
       id="view"
+      @click="toggleMenuIfMobile()"
     />
   </Transition>
 </template>
@@ -55,18 +65,18 @@ const { isMenuOpen } = useUI();
 
 #menu,
 #view {
-  @apply absolute top-12 bottom-0;
+  @apply absolute bottom-0;
   @apply overflow-y-scroll overflow-x-hidden;
   @apply scrollbar-thin scrollbar-thumb-darkgray scrollbar-track-gray;
   @apply dark:scrollbar-thumb-lightblue dark:scrollbar-track-tailwindblue;
 }
 
 #menu {
-  @apply z-10 w-3/5 h-5/6 left-0 sm:w-1/5 sm:h-auto;
+  @apply top-14 z-10 w-3/5 h-5/6 left-0 sm:top-12 sm:w-1/5 sm:h-auto;
 }
 
 #view {
-  @apply pl-2 pr-4 h-auto;
+  @apply top-12 pl-2 pr-4 h-auto;
 }
 
 .hidden {
