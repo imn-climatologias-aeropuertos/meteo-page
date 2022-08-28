@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Sondeos MROC (Wyoming)",
+    "link": "http://weather.uwyo.edu/upperair/sounding.html"
+  },
+  {
+    "text": "OGIMET",
+    "link": "https://www.ogimet.com/"
+  },
+  {
+    "text": "METAR's 12 horas",
+    "link": "https://www.aviationweather.gov/metar/data?ids=MROC%20MRPV%20MRLM%20MRLB&format=raw&hours=18&taf=off&layout=on"
+  },
+  {
+    "text": "TAF's Actuales",
+    "link": "https://www.aviationweather.gov/taf/data?ids=MROC+MRLB+MRLM+MRPV&format=raw&date=&submit=Get+TAF+data"
+  },
+  {
+    "text": "METAR's y TAF's 24 horas",
+    "link": "https://www.aviationweather.gov/metar/data?ids=MROC+MRPV+MRLM+MRLB&format=raw&date=&hours=24&taf=on"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "text": "Análisis de superficie",
+    "img": "/assets/hurricanes/sigwx",
+    "link": "https://www.nhc.noaa.gov/tafb_latest/USA_latest.gif",
+    "isBig": false
+  },
+  {
+    "text": "Volcanic Ash Advisory",
+    "img": "/assets/aeronautics/volcanic",
+    "link": "https://www.ssd.noaa.gov/VAAC/washington.html",
+    "isBig": false
+  },
+  {
+    "text": "SIGWX Niveles Altos",
+    "img": "/assets/aeronautics/high-level-charts",
+    "link": "https://www.aviationweather.gov/progchart?gis=off",
+    "isBig": false
+  },
+  {
+    "text": "SIGWX por Regiones",
+    "img": "/assets/aeronautics/high-level-charts-regiones",
+    "link": "https://www.aviationweather.gov/flightfolder/products?type=sigwx",
+    "isBig": false
+  },
+  {
+    "text": "Turbulencia",
+    "img": "/assets/aeronautics/turbulencia",
+    "link": "https://www.aviationweather.gov/wafs",
+    "isBig": false
+  },
+  {
+    "text": "Carpetas Aeronáuticas",
+    "img": "/assets/aeronautics/carpetas-aeronauticas",
+    "link": "https://www.aviationweather.gov/flightfolder",
+    "isBig": false
+  },
+  {
+    "text": "Informe Aeronáutico",
+    "img": "/assets/aeronautics/informe-aero",
+    "link": "https://www.imn.ac.cr/informe-de-meteorologia-aeronautica",
+    "isBig": false
+  },
+  {
+    "text": "Mapa de METAR's",
+    "img": "/assets/aeronautics/mapa-metares",
+    "link": "https://www.tropicaltidbits.com/analysis/sfcplots/",
+    "isBig": false
+  },
+  {
+    "text": "Turbulencia CIMSS",
+    "img": "/assets/aeronautics/turbulencia-goes16-CA",
+    "link": "https://cimss.ssec.wisc.edu/turbulence/?satellite=goes-e&hem=NH&region=Central-America&datetime=LATEST",
+    "isBig": false
+  }
+]

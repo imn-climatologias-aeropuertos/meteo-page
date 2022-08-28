@@ -58,5 +58,11 @@
     "icon": "chart-area",
     "text": "Reanalisys y Resumen",
     "name": "reanalisys"
+  },
+  {
+    "to": "/aeronautics",
+    "icon": "plane-departure",
+    "text": "Aeronáutica",
+    "name": "aeronautics"
   }
 ]
