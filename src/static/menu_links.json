@@ -76,5 +76,11 @@
     "icon": "fire-flame-curved",
     "text": "Incendios Forestales",
     "name": "fires"
+  },
+  {
+    "to": "/volcanic-ash",
+    "icon": "volcano",
+    "text": "Dispersión de Ceniza",
+    "name": "volcanic-ash"
   }
 ]

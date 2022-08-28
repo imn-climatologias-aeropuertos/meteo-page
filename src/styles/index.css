@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-    @apply dark:bg-blue overflow-hidden;
+    @apply h-screen dark:bg-blue overflow-hidden;
 }
 
 section {

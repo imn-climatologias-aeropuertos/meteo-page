@@ -67,6 +67,11 @@ const routes: Array<RouteRecordRaw> = [
     name: 'fires',
     component: () => import(/* webpackChunkName: "fires" */ '../views/Fires.vue'),
   },
+  {
+    path: '/volcanic-ash',
+    name: 'volcanic-ash',
+    component: () => import(/* webpackChunkName: "volcanic-ash" */ '../views/VolcanicAsh.vue'),
+  },
 ]
 
 const router = createRouter({
