@@ -88,5 +88,11 @@
     "icon": "recycle",
     "text": "Varios",
     "name": "several-data"
+  },
+  {
+    "to": "/evaluation",
+    "icon": "clipboard",
+    "text": "Evaluación",
+    "name": "evaluation"
   }
 ]
