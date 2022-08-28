@@ -70,5 +70,11 @@
     "icon": "water",
     "text": "Marino",
     "name": "marine"
+  },
+  {
+    "to": "/fires",
+    "icon": "fire-flame-curved",
+    "text": "Incendios Forestales",
+    "name": "fires"
   }
 ]
