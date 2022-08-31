@@ -1,5 +1,11 @@
 [
   {
+    "text": "WRF-11",
+    "img": "/assets/models_imn/wrf-11",
+    "link": "https://wrf11.imn.ac.cr",
+    "isBig": false
+  },
+  {
     "text": "WRF-AR (1 KM)",
     "img": "/assets/models_imn/wrf-ar",
     "link": "http://wrfar.imn.ac.cr/",
