@@ -1,15 +1,27 @@
 [
   {
-    "text": "Boya Guanacaste",
-    "link": "http://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=10.2&longitude=-86.3&zone=-6&units=e"
+    "text": "Boya Pacífico Norte-Norte",
+    "link": "https://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=10.78&longitude=-85.99&zone=-6&units=e"
   },
   {
-    "text": "Boya Limón",
-    "link": "http://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=wna&latitude=10.5&longitude=-82.0&zone=-6&units=e"
+    "text": "Boya Pacífico Norte-Centro",
+    "link": "https://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=9.88&longitude=-85.88&zone=-6&units=e"
+  },
+  {
+    "text": "Boya Pacífico Norte-Sur",
+    "link": "https://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=9.58&longitude=-84.95&zone=-6&units=e"
+  },
+  {
+    "text": "Boya Pacífico Central",
+    "link": "https://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=9.19&longitude=-84.26&zone=-6&units=e"
   },
   {
     "text": "Boya Pacífico Sur",
-    "link": "http://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=8.3&longitude=-85.0&zone=-6&units=e"
+    "link": "https://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=8.27&longitude=-83.39&zone=-6&units=e"
+  },
+  {
+    "text": "Boya Caribe",
+    "link": "https://www.buoyweather.com/wxnav6.jsp?region=CR&program=nww3BW1&grb=enp&latitude=10.14&longitude=-83.01&zone=-6&units=e"
   },
   {
     "text": "Boya Isla del Coco",
