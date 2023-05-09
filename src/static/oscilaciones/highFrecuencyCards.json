@@ -12,15 +12,9 @@
     "isBig": false
   },
   {
-    "text": "MJO-VP-Kelvin",
-    "img": "/assets/oscillations/mjo-vp-kelvin",
-    "link": "http://www.atmos.albany.edu/student/ventrice/real_time/maps/waves/westHem/28.gif",
-    "isBig": false
-  },
-  {
     "text": "MJO Index Forecast",
     "img": "/assets/oscillations/mjo-index",
-    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/CLIVAR/ALL_emean_phase_full.gif",
+    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/combphase_noCFSfull.gif",
     "isBig": false
   },
   {
@@ -56,13 +50,13 @@
   {
     "text": "O. Atlántico Norte (NAO)",
     "img": "/assets/oscillations/nao-sprd2",
-    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.sprd2.gif",
+    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.gefs.sprd2.png",
     "isBig": false
   },
   {
     "text": "Oscilación Ártica (AO)",
     "img": "/assets/oscillations/ao-sprd2",
-    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/ao.sprd2.gif",
+    "link": "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/ao.gefs.sprd2.png",
     "isBig": false
   }
 ]

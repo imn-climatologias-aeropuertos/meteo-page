@@ -6,15 +6,9 @@
     "isBig": false
   },
   {
-    "text": "Meteostar Weather Fcst.",
-    "img": "/assets/global_models/meteostar",
-    "link": "https://www.wxweb.meteostar.com",
-    "isBig": false
-  },
-  {
     "text": "Atmos Albany",
     "img": "/assets/global_models/atmos-albany",
-    "link": "http://www.atmos.albany.edu/facstaff/abrammer/",
+    "link": "https://www.atmos.albany.edu/index.php?d=wx_nwp#global",
     "isBig": false
   },
   {
@@ -44,7 +38,7 @@
   {
     "text": "Modelo Europeo",
     "img": "/assets/global_models/europeo",
-    "link": "https://www.ecmwf.int/en/forecasts/charts/catalogue/?facets=Range,Medium%20(15%20days)%3BType,Forecasts",
+    "link": "https://www.ecmwf.int/en/forecasts/charts",
     "isBig": false
   },
   {
