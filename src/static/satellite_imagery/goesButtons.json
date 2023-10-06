@@ -1,5 +1,9 @@
 [
   {
+    "text": "Radar del IMN",
+    "link": "https://www.imn.ac.cr/imagenes-sat/radar1m-animada.gif"
+  },
+  {
     "text": "Rayos",
     "link": "https://ocean.weather.gov/lightning/index.php?basin=Tropics&geog=Far%20North&sat=IR&loop=On"
   },
