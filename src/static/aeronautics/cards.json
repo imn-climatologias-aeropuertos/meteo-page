@@ -12,27 +12,27 @@
     "isBig": false
   },
   {
-    "text": "SIGWX Niveles Altos",
-    "img": "/assets/aeronautics/high-level-charts",
-    "link": "https://www.aviationweather.gov/progchart?gis=off",
+    "text": "SIGWX Niv. Altos ADDS",
+    "img": "/assets/aeronautics/high-level-charts-adds",
+    "link": "https://aviationweather.gov/graphics/",
     "isBig": false
   },
   {
-    "text": "SIGWX por Regiones",
-    "img": "/assets/aeronautics/high-level-charts-regiones",
-    "link": "https://www.aviationweather.gov/flightfolder/products?type=sigwx",
+    "text": "SIGWX Niv. Altos Turkish",
+    "img": "/assets/aeronautics/high-level-charts-turkish",
+    "link": "https://hezarfen.mgm.gov.tr/HEn/EnUsr/UcusDocs/Default.aspx",
+    "isBig": false
+  },
+  {
+    "text": "SIGWX Niv. Al. Emiratos",
+    "img": "/assets/aeronautics/high-level-charts-emiratos",
+    "link": "https://www.avmet.ae/flight/SWcharts.aspx",
     "isBig": false
   },
   {
     "text": "Turbulencia",
     "img": "/assets/aeronautics/turbulencia",
     "link": "https://www.aviationweather.gov/wafs",
-    "isBig": false
-  },
-  {
-    "text": "Carpetas Aeronáuticas",
-    "img": "/assets/aeronautics/carpetas-aeronauticas",
-    "link": "https://www.aviationweather.gov/flightfolder",
     "isBig": false
   },
   {

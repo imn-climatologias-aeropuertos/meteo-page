@@ -18,5 +18,9 @@
   {
     "text": "METAR's y TAF's 24 horas",
     "link": "https://aviationweather.gov/data/metar/?id=MROC,MRLB,MRLM,MRPV&hours=24&include_taf=yes"
+  },
+  {
+    "text": "Traducción de METAR y TAF alternativo",
+    "link": "https://www.iflightplanner.com/Resources/MetarTafTranslator.aspx"
   }
 ]
