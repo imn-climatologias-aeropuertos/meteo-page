@@ -30,26 +30,12 @@ function generateBufkitLinks(
 let sigwxButtons: Array<{ text: string; link: string }> = [];
 
 function generateSigWXButtonsLinks() {
-  let today = moment();
-  let yesterday = today.subtract(1, "days");
-  let todayHour = parseInt(today.format("HH"));
-  let dateAsString = "";
   let links = new Array<{ text: string; link: string }>();
 
   for (let i = 0; i < 4; i++) {
-    if (todayHour < 6 && i > 0) {
-      dateAsString = yesterday.format("YYYYMMDD");
-    } else if (todayHour < 12 && i > 1) {
-      dateAsString = yesterday.format("YYYYMMDD");
-    } else if (todayHour < 18 && i > 2) {
-      dateAsString = yesterday.format("YYYYMMDD");
-    } else {
-      dateAsString = today.format("YYYYMMDD");
-    }
-
     links.push({
       text: `${hours[i]}00Z`,
-      link: `https://aviationweather.gov/data/products/fax/${dateAsString}/${dateAsString}_${hours[i]}00_F24_sigwx_hi_a.gif`,
+      link: `https://www.aviationweather.gov/data/products/swh/${hours[i]}_sigwx_hi_a.gif`,
     });
   }
 
@@ -73,16 +59,6 @@ generateSigWXButtonsLinks();
     </section>
     <section>
       <Subtitle>Mapas de Tiempo Significante por Hora de Validez</Subtitle>
-      <div class="flex justify-center m-5">
-        <button class="btn" @click="generateSigWXButtonsLinks()">
-          Actualizar Enlaces
-        </button>
-      </div>
-      <p>
-        Nota: Si experimenta algún error al acceder a los mapas de tiempo
-        significante presione el botón "Actualizar Enlaces", esto actualizará
-        los enlaces a cada mapa, ya que cambian cada 6 horas.
-      </p>
       <ButtonList :buttons="sigwxButtons" />
     </section>
     <section>
