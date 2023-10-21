@@ -9,14 +9,14 @@
   },
   {
     "text": "METAR's 12 horas",
-    "link": "https://www.aviationweather.gov/metar/data?ids=MROC%20MRPV%20MRLM%20MRLB&format=raw&hours=18&taf=off&layout=on"
+    "link": "https://aviationweather.gov/data/metar/?id=MROC,MRLB,MRLM,MRPV&hours=12"
   },
   {
     "text": "TAF's Actuales",
-    "link": "https://www.aviationweather.gov/taf/data?ids=MROC+MRLB+MRLM+MRPV&format=raw&date=&submit=Get+TAF+data"
+    "link": "https://aviationweather.gov/data/taf/?id=MROC,MRLB,MRLM,MRPV"
   },
   {
     "text": "METAR's y TAF's 24 horas",
-    "link": "https://www.aviationweather.gov/metar/data?ids=MROC+MRPV+MRLM+MRLB&format=raw&date=&hours=24&taf=on"
+    "link": "https://aviationweather.gov/data/metar/?id=MROC,MRLB,MRLM,MRPV&hours=24&include_taf=yes"
   }
 ]
