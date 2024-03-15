@@ -14,5 +14,9 @@
   {
     "text": "Datos IMN (horarios, diarios, mensuales)",
     "link": "http://intra-files.imn.ac.cr/intranet_graficos"
+  },
+  {
+    "text": "Estaciones del CIGEFI",
+    "link": "https://tooji.cigefi.ucr.ac.cr/estaciones/"
   }
 ]
