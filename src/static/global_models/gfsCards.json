@@ -52,5 +52,11 @@
     "img": "/assets/global_models/ventusky",
     "link": "https://www.ventusky.com/?p=9.9;-84.1;5&l=wind-10m&t=20191101/0000&m=icon",
     "isBig": false
+  },
+  {
+    "text": "Zoom Earth",
+    "img": "/assets/global_models/zoom-earth",
+    "link": "https://zoom.earth",
+    "isBig": false
   }
 ]
