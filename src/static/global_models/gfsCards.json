@@ -12,6 +12,12 @@
     "isBig": false
   },
   {
+    "text": "Modelos Globales NASA",
+    "img": "/assets/global_models/global_models_nasa",
+    "link": "https://fluid.nccs.nasa.gov/weather/",
+    "isBig": false
+  },
+  {
     "text": "TC Genesis Potential",
     "img": "/assets/global_models/tropical-cyclones",
     "link": "http://moe.met.fsu.edu/tcgengifs/",
