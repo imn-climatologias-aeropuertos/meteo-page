@@ -58,5 +58,11 @@
     "img": "/assets/global_models/giro-ciclonico",
     "link": "http://www.atmos.albany.edu/student/ppapin/gyre.php",
     "isBig": false
+  },
+  {
+    "text": "Giro Ciclónico Alter.",
+    "img": "/assets/global_models/giro-ciclonico",
+    "link": "http://www.pppapin.com/gyre.php",
+    "isBig": false
   }
 ]
