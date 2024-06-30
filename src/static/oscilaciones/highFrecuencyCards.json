@@ -24,6 +24,12 @@
     "isBig": false
   },
   {
+    "text": "TIGGE MJO Index",
+    "img": "/assets/oscillations/tigge-mjo-index",
+    "link": "http://gpvjma.ccs.hpcc.jp/TIGGE/tigge_MJO.html",
+    "isBig": false
+  },
+  {
     "text": "RMM Phase",
     "img": "/assets/oscillations/rmm1-rmm2",
     "link": "http://www.bom.gov.au/climate/mjo/graphics/rmm.phase.Last40days.gif",
