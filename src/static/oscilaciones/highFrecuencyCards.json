@@ -6,9 +6,9 @@
     "isBig": false
   },
   {
-    "text": "MJO Michael J. Ventrice",
-    "img": "/assets/oscillations/mjo-ventrice",
-    "link": "http://mikeventrice.weebly.com/mjo.html",
+    "text": "MJO Australian Gov.",
+    "img": "/assets/oscillations/mjo-australian-gov",
+    "link": "http://www.bom.gov.au/climate/mjo/",
     "isBig": false
   },
   {
@@ -27,6 +27,12 @@
     "text": "TIGGE MJO Index",
     "img": "/assets/oscillations/tigge-mjo-index",
     "link": "http://gpvjma.ccs.hpcc.jp/TIGGE/tigge_MJO.html",
+    "isBig": false
+  },
+  {
+    "text": "MJO Michael J. Ventrice",
+    "img": "/assets/oscillations/mjo-ventrice",
+    "link": "http://mikeventrice.weebly.com/mjo.html",
     "isBig": false
   },
   {
