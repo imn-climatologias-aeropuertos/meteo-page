@@ -6,6 +6,7 @@ import ButtonList from "../components/ButtonList.vue";
 
 import stationsCards from "../static/tracking_data/stationsCards.json";
 import otherDataCards from "../static/tracking_data/otherDataCards.json";
+import nowcastingCards from "../static/tracking_data/nowcastingCards.json";
 import cigefiStationsButtons from "../static/tracking_data/cigefiStationsButtons.json";
 import severalStationsButtons from "../static/tracking_data/severalStationsButtons.json";
 import compendiumButtons from "../static/tracking_data/compendiumButtons.json";
@@ -26,6 +27,10 @@ import hidroButtons from "../static/tracking_data/hidroButtons.json";
     <section>
       <Subtitle>Estaciones del CIGEFI link directo</Subtitle>
       <ButtonList :buttons="cigefiStationsButtons" />
+    </section>
+    <section>
+      <Subtitle>Nowcasting</Subtitle>
+      <CardList :cards="nowcastingCards" />
     </section>
     <section>
       <CardList :cards="otherDataCards" />
