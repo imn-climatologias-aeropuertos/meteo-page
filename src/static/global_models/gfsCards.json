@@ -30,6 +30,12 @@
     "isBig": false
   },
   {
+    "text": "Modelos WeatherNerds",
+    "img": "/assets/global_models/numerical-models-weathernerds",
+    "link": "https://www.weathernerds.org/models/",
+    "isBig": false
+  },
+  {
     "text": "Windy.com",
     "img": "/assets/global_models/windy",
     "link": "https://www.windy.com/?9.534,-80.068,4",
