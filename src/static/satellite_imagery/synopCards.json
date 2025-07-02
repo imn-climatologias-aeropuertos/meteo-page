@@ -36,6 +36,12 @@
     "isBig": false
   },
   {
+    "text": "Imágenes WeatherNerds",
+    "img": "/assets/satellite_imagery/satellite-weathernerds",
+    "link": "https://www.weathernerds.org/satellite/",
+    "isBig": false
+  },
+  {
     "text": "Vapor de Agua Nivel Alto",
     "img": "/assets/satellite_imagery/vapor-agua-niveles-altos",
     "link": "https://weather.cod.edu/satrad/?parms=global-atlantic-08-6-0-100-1&checked=map&colorbar=undefined",
