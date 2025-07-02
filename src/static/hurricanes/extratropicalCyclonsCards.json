@@ -1,5 +1,11 @@
 [
   {
+    "text": "Guía TC WeatherNerds",
+    "img": "/assets/hurricanes/tc-guidance-weathernerds",
+    "link": "https://www.weathernerds.org/tc_guidance/",
+    "isBig": false
+  },
+  {
     "text": "Fomación de ciclones",
     "img": "/assets/hurricanes/cyclone-prob",
     "link": "https://www.ssd.noaa.gov/PS/TROP/TCFP/atlantic.html",
