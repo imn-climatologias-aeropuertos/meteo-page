@@ -1,20 +1,14 @@
 [
   {
-    "text": "NOAA Trajectory Model",
+    "text": "Trajectory y Dispersión",
     "img": "/assets/volcanic_ash/dispersion01",
-    "link": "https://www.ready.noaa.gov/hypub-bin/trajsrc.pl?trjtype=4",
+    "link": "https://new-ready.arl.noaa.gov/HYSPLIT.php",
     "isBig": false
   },
   {
     "text": "Volcanes Activos",
     "img": "/assets/volcanic_ash/ash-trajectory-forecast",
     "link": "https://www.ready.noaa.gov/READY_traj_volcanoes.php",
-    "isBig": false
-  },
-  {
-    "text": "Dispersión de Ceniza",
-    "img": "/assets/volcanic_ash/dispersion02",
-    "link": "https://www.ready.noaa.gov/READYVolcAsh.php",
     "isBig": false
   },
   {
