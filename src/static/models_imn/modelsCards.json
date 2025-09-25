@@ -48,9 +48,15 @@
     "isBig": false
   },
   {
-    "text": "CAFFG",
-    "img": "/assets/tracking_data/caffg",
-    "link": "https://cds.imn.ac.cr/CAFFG/index.php",
+    "text": "CAFFGS MAPSERVER",
+    "img": "/assets/models_imn/caffgs_mapserver",
+    "link": "https://cds.imn.ac.cr/CAFFGS_MAPSERVER/",
+    "isBig": false
+  },
+  {
+    "text": "CAFFGS CONSOLE",
+    "img": "/assets/models_imn/caffgs_console",
+    "link": "https://cds.imn.ac.cr/CAFFGS_CONSOLE/",
     "isBig": false
   },
   {
