@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import Title from "../components/Title.vue";
-import Button from "../components/Button.vue";
+import ButtonList from "../components/ButtonList.vue";
+
+import buttons from "../static/evaluation/buttons.json";
 </script>
 
 <template>
@@ -9,11 +11,7 @@ import Button from "../components/Button.vue";
       <Title>Evaluaciones</Title>
     </section>
     <section>
-      <div class="flex justify-center">
-        <Button link="http://intra-files.imn.ac.cr/intranet_graficos/">
-          Evaluaciones Varias
-        </Button>
-      </div>
+      <ButtonList :buttons="buttons" />
     </section>
   </div>
 </template>
