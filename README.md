@@ -14,3 +14,36 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
 
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+
+## How to
+
+### Setting the environment
+
+This project uses Vue.js, TypeScript, Vite and Yarn, so you need `NPM` installed in your system. Once you have it, execute
+
+```console
+$ npm install -g yarn
+```
+
+to set yarn globally. Then install the node modules needed by the application
+
+```console
+$ yarn install
+```
+
+To start the application in dev mode
+
+```console
+$ yarn dev
+```
+
+And to build
+
+```console
+$ yarn build
+```
+
+This will generate a folder called `dist`, there will be the the `index.html` and all the files needed to
+put the app on production.
+
+Have fun!!
