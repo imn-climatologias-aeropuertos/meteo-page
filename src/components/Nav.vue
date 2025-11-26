@@ -16,8 +16,13 @@ const { toggleMenu } = useUI();
       </button>
       Menú
     </div>
-    <div class="block items-center text-white mx-5">
-      <button @click="toggleDark()">
+    <div class="block items-center text-white mx-2">
+      <button class="mx-5">
+        <a href="https://github.com/imn-climatologias-aeropuertos/meteo-page" target="_blank" rel="noopener noreferrer">
+          <font-awesome-icon icon="fa-brands fa-github" />
+        </a>
+      </button>
+      <button @click="toggleDark()" class="mx-2">
         <font-awesome-icon v-if="!isDark" icon="fa-solid fa-sun" />
         <font-awesome-icon v-else icon="fa-solid fa-moon" />
       </button>
