@@ -46,5 +46,11 @@
     "img": "/assets/reanalisys/clinfotoolkit",
     "link": "http://clik.apcc21.org/",
     "isBig": false
+  },
+  {
+    "text": "UNIFEI",
+    "img": "/assets/reanalisys/unifei",
+    "link": "https://meteorologia.unifei.edu.br",
+    "isBig": false
   }
 ]
