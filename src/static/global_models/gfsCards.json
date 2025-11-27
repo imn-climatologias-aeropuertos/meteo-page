@@ -64,5 +64,11 @@
     "img": "/assets/global_models/zoom-earth",
     "link": "https://zoom.earth",
     "isBig": false
+  },
+  {
+    "text": "Earth Nullschool",
+    "img": "/assets/global_models/earth-nullschool",
+    "link": "https://earth.nullschool.net/#current/wind/surface/level/orthographic",
+    "isBig": false
   }
 ]
