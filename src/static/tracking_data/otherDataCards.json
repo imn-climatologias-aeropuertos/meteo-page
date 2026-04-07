@@ -1,11 +1,5 @@
 [
   {
-    "text": "CAFFG",
-    "img": "/assets/tracking_data/caffg",
-    "link": "https://cds.imn.ac.cr/CAFFG/index.php",
-    "isBig": false
-  },
-  {
     "text": "Datos 5 minutos",
     "img": "/assets/tracking_data/cinco-minutos",
     "link": "http://intra-files.imn.ac.cr/intranet_graficos/datos5minutos/",
